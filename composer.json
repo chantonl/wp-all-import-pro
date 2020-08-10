@@ -1,0 +1,19 @@
+{
+    "name": "chantonl/wp-all-import-pro",
+    "description": "",
+    "keywords": [
+        "wordpress",
+        "plugin"
+    ],
+    "homepage": "https://github.com/chantonl/wp-all-import-pro",
+    "authors": [
+        {
+            "name": "Soflyy",
+            "homepage": "http://www.wpallimport.com/"
+        }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=5.6"
+    }
+}
